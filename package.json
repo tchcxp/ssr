@@ -1,0 +1,19 @@
+{
+  "name": "server-side-rendering",
+  "version": "1.0.0",
+  "description": "Server side rendering with React and Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tchcxp/ssr.git"
+  },
+  "author": "Cheng Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tchcxp/ssr/issues"
+  },
+  "homepage": "https://github.com/tchcxp/ssr#readme"
+}
